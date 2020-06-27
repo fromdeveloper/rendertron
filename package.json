@@ -57,5 +57,9 @@
     "supertest": "^4.0.0",
     "tslint": "^5.20.0",
     "typescript": "^3.8.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "rendertron-middleware": "^0.1.5"
   }
 }
